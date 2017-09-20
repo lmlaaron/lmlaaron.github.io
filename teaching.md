@@ -1,6 +1,6 @@
 ---
 name: page
-title: Misc
-permalink: /Misc/
+title: Teaching
+permalink: /Teaching/
 ---
 [jekyll-organization]: https://github.com/jekyll
