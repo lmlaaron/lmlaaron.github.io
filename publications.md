@@ -1,6 +1,6 @@
 ---
 name: page
 title: Publications
-permalink: Publications
+permalink: /Publications/
 ---
 [jekyll-organization]:https://github.com/jekyll
