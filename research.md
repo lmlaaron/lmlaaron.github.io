@@ -1,6 +1,6 @@
 ---
 name: page
-title: Publications
-permalink: /Publications/
+title: Research
+permalink: /Research/
 ---
 [jekyll-organization]:https://github.com/jekyll
