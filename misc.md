@@ -1,5 +1,5 @@
------
-name:page
-title:misc
-permalink:/Misc/
------
+---
+name: page
+title: misc
+permalink: /Misc/
+---
