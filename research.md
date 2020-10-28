@@ -16,7 +16,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 
 * Z. Fang, M. Luo, F. Anwar, H. Zhuang, R. Gupta, "Go-realtime: a lightweight framework for multiprocessor real-time system in user space", in ACM SIGBED Review, Vol 14, Issue 4, pp. 46-52. [\[pdf\]](/pub/gorealtime.pdf)
 
-* A. B. Kahng, M. Luo, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction, pp.1-8. [\[\]](/pub/gt1gt2si.pdf) 
+* A. B. Kahng, M. Luo, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction, pp.1-8. [\[pdf\]](/pub/gt1gt2si.pdf) 
 
 * M. Luo, R. Wang, S. Guo, J. Wang, J. Zou, R. Huang, "Impacts of Random Telegraph Noise (RTN) on Digital Circuits", in IEEE Transactions on Electron Devices, Vol 62, Issue, 6, pp. 1725-1732. [\[pdf\]](/pub/ted.pdf) 
 
