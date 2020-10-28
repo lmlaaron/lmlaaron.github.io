@@ -14,4 +14,8 @@ My current main research direction is the security of cyber-physical systems and
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
 (CPS-SPC), 2018, pages 48-59 (Best Paper Award). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
 
+### Full Publication List
+
+[Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en)
+
 [jekyll-organization]:https://github.com/jekyll
