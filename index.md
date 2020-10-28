@@ -1,10 +1,10 @@
 ---
 layout: page
 ---
-[![photo](/fig/boston_small2.jpg){: style="float: left"}](/fig/boston.jpg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-# Mulong Luo
-# Ph.D. student, Cornell University
-# ml2558 AT cornell DOT edu
+[![photo](/fig/boston_small2.jpg){: style="float: left"}](/fig/boston.jpg) 
+#           Mulong Luo
+#           Ph.D. student, Cornell University
+#           ml2558 AT cornell DOT edu
 
 
 
