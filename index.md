@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-[![photo](/fig/boston_small2.jpg){: .align-left}](/fig/boston.jpg)
+[![photo](/fig/boston_small2.jpg)](/fig/boston.jpg){: .align-left}
 Mulong Luo
 
 
