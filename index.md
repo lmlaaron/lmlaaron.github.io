@@ -2,7 +2,7 @@
 layout: page
 ---
 [![photo](/fig/boston_s.jpg){: style="float: left"}](/fig/boston.jpg) 
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          <span style="font-size:20em;">**Mulong Luo**</span> 
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          <span style="font-size:5em;">**Mulong Luo**</span> 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Ph.D. student 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Cornell University 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          *ml2558 AT cornell DOT edu*
