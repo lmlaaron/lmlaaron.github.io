@@ -1,12 +1,11 @@
 ---
 layout: page
 ---
-[![photo](/fig/boston_s.jpg){: style="float: left"}](/fig/boston.jpg) 
+[![photo](/fig/boston_small2.jpg){: style="float: left"}](/fig/boston.jpg) 
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          **Mulong Luo** 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Ph.D. student   
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          Cornell University   
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          *ml2558 AT cornell DOT edu*
-# &nbsp;
 # &nbsp;
 
 
