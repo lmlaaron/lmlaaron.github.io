@@ -14,6 +14,8 @@ My current main research direction is the security of cyber-physical systems and
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
 (CPS-SPC), 2018, pages 48-59 (Best Paper Award). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
 
+* M. Luo and E. Suh, "Stealing Zero-Thresholding Neural Network Data using Timing Channel", tecnical report [\[pdf\]](/pub/nn-channel.pdf)
+
 * Z. Fang, M. Luo, F. Anwar, H. Zhuang, R. Gupta, "Go-realtime: a lightweight framework for multiprocessor real-time system in user space", in ACM SIGBED Review, Vol 14, Issue 4, pp. 46-52. [\[pdf\]](/pub/gorealtime.pdf)
 
 * A. B. Kahng, M. Luo, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction, pp.1-8. [\[pdf\]](/pub/gt1gt2si.pdf) 
