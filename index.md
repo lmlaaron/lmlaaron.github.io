@@ -7,5 +7,8 @@ layout: page
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cornell University   
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *ml2558 AT cornell DOT edu*
 # &nbsp;
-I am a fourth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University. I do research on hardware security for cyber-physical systems and autonomous driving. I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. I demonstrated for the first time that [cache side channel](pub/sec20-luo.pdf) can be used to infer the location of autonomous vehicles, which is a serious security threat. I am advised by [Prof. G. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/).
+I am a final-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University. I am currently in the job market. 
+I am interested in architecture and cyber-physical systems security using machine learning and formal methods.
+For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
+For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
 
