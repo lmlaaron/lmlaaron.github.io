@@ -3,7 +3,7 @@ name: page
 title: Research
 permalink: /Research/
 ---
-My current main research direction is the security of cyber-physical systems and autonomous vehicles. I aim at using principled software and hardware methods to address the security issues of real-world cyber-physical systems. In the past, I have been working on electronic design automation research at UC San Diego. Long before that, when I was an undergrad at Peking Univerity back in China, I have also worked on device physics research.   
+My current main research direction is the security of computer architecture and cyber-physical systems, using machine learning, information flow, and trusted execution environments. In the past, I have been working on electronic design automation research at UC San Diego. Long before that, when I was an undergrad at Peking Univerity back in China, I have also worked on device physics research.   
 
 ### Selected Publications
 
@@ -14,7 +14,7 @@ My current main research direction is the security of cyber-physical systems and
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
 (CPS-SPC), 2018, pages 48-59 (Best Paper Award). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
 
-* M. Luo, G. E. Suh, "WIP: Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (AutoSec), 2022, collocated with Networked and Distributed System Symposium, NDSS. [\pdf\](/pub/AutoSec_2022_paper_1-19.pdf)
+* M. Luo, G. E. Suh, "WIP: Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (AutoSec), 2022, collocated with Networked and Distributed System Symposium, NDSS. [[\pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)
 
 * Z. Fang, M. Luo, F. Anwar, H. Zhuang, R. Gupta, "Go-realtime: a lightweight framework for multiprocessor real-time system in user space", in ACM SIGBED Review, Vol 14, Issue 4, pp. 46-52. [\[pdf\]](/pub/gorealtime.pdf)
 
