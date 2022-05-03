@@ -29,6 +29,8 @@ For formal method, I worked on a project that leveraged [information flow contro
 * security of computer architecture and cyber-physical systems
 * Machine learning for security and hardware
 * Trusted execution environments, side channels
+
+
 ### Selected Publications
 
 * M. Luo, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (ASAP), 2022. 
