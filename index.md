@@ -9,7 +9,7 @@ layout: page
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/)
 # &nbsp;
-I am a final-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by Prof. Edward Suh. I am currently in the job market. 
+I am a final-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by Prof. Edward Suh.  
 I am interested in architecture and cyber-physical systems security using machine learning and formal methods.
 For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
 For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
