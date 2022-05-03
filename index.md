@@ -6,13 +6,14 @@ layout: page
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. candidate  
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cornell University   
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *ml2558 AT cornell DOT edu*
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/)
 # &nbsp;
 I am a final-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University. I am currently in the job market. 
 I am interested in architecture and cyber-physical systems security using machine learning and formal methods.
 For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
 For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
 
-[Vita](/pub/vita.pdf)
+
 
 ### Education
 
@@ -48,10 +49,6 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 * A. B. Kahng, M. Luo, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction, pp.1-8. [\[pdf\]](/pub/gt1gt2si.pdf) 
 
 * M. Luo, R. Wang, S. Guo, J. Wang, J. Zou, R. Huang, "Impacts of Random Telegraph Noise (RTN) on Digital Circuits", in IEEE Transactions on Electron Devices, Vol 62, Issue, 6, pp. 1725-1732. [\[pdf\]](/pub/ted.pdf) 
-
-### Full Publication List
-
-* [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en)
 
 ### Services
 
