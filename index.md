@@ -24,11 +24,12 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 * Bachelor of Science, Microelectronics, Peking University, 2014.
 
-### Research
+### Research Interests
 
-My current main research direction is the security of computer architecture and cyber-physical systems, using machine learning, information flow, and trusted execution environments. In the past, I have been working on electronic design automation research at UC San Diego. Long before that, when I was an undergrad at Peking Univerity back in China, I have also worked on device physics research.   
-
-### Selected Recent Publications
+* security of computer architecture and cyber-physical systems
+* Machine learning for security and hardware
+* Trusted execution environments, side channels
+### Selected Publications
 
 * M. Luo, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (ASAP), 2022. 
 
@@ -79,4 +80,10 @@ I have been serving as a teaching assistant for multiple undergradudate and grad
 
 ### Mentoring
 
-* I was a mentor for the Master of Engineering Project at Cornell.
+* I was a mentor for the Master of Engineering Design Project "An Architecture for Secure GPIO Access in Robot System on TrustZone Enabled ARM Processors" by Yifang Yang and Yan Zhang.
+
+### Industry
+
+* System on Chip (SoC) platform architecture intern, Qualcomm Inc., 2021.
+
+* Software Reseach and Development Intern, Synopsys Inc., 2016.
