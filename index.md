@@ -34,7 +34,7 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 ### Selected Publications
 
-* **M. Luo**, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (**ASAP**), 2022. 
+* **M. Luo**, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (**ASAP**), 2022. [\[pdf\]](https://arxiv.org/pdf/2205.02754.pdf)
 
 * **M. Luo**, G. E. Suh, "Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (**AutoSec**), 2022, collocated with Networked and Distributed System Symposium (**NDSS**). [\[pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)
 
