@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. candidate in the School of Electrical and Computer Engin
 For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
 For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
 
-<span style="color:red">I am looking for undergrad and master students at Cornell to work on a project on using machine learning to improve computer architectural security. Please drop me an email if you are insterested.</span>
+<span style="color:red">I am looking for undergrad and master students to work on a project on using machine learning to improve computer architectural security. Please drop me an email if you are insterested.</span>
 
 
 ### Education
