@@ -59,6 +59,8 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 ### Services
 
 * Technical Program Committee: 
+	* ISOC Symposium on Vehicle Security and Privacy (VehicleSec), co-located with NDSS’23. 
+	* USENIX Security Symposium, Artifact Evaluation Committee, 2023.
 	* USENIX Symposium on Operating Systems Design and Implementation (OSDI), Artifact Evalutaion Committee, 2022. 
 	* USENIX Annual Technical Conference (ATC), Artifact Evaluation Committee, 2022.
 
