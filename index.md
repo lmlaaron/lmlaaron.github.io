@@ -35,13 +35,13 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 ### Selected Publications
 
-* **M. Luo** *, W. Xiong*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) 
+* **M. Luo\* **, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) (\* Equal contributions.) 
 
 * **M. Luo**, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (**ASAP**), 2022. [\[pdf\]](https://arxiv.org/pdf/2205.02754.pdf)
 
 * **M. Luo**, G. E. Suh, "Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (**AutoSec**), 2022, collocated with Networked and Distributed System Symposium (**NDSS**). [\[pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)
 
-* **M. Luo***, A. C. Myers, G. E. Suh, “Stealthy Tracking of Autonomous Vehicles with Cache Side Channels”, in
+* **M. Luo**, A. C. Myers, G. E. Suh, “Stealthy Tracking of Autonomous Vehicles with Cache Side Channels”, in
 29th **USENIX Security** Symposium, 2020, pp.859-876 [\[pdf\]](/pub/sec20-luo.pdf) [\[slides\]](https://www.usenix.org/system/files/sec20_slides_luo.pdf)[\[talk\]](https://youtu.be/prOLanX713s) (Shortlisted for **Top Picks in Hardware and Embedded Security** 2022.)
 
 * J. H. Lin, X. Jiao, **M. Luo**, R. K. Gupta "Vulnrability of Hardware Neural Network to Dynamic Operation Point Variations", in **IEEE Design and Test** 37(5), pp. 75-84.
