@@ -35,7 +35,7 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 ### Selected Publications
 
-* **M. Luo\* **, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) (\* Equal contributions.) 
+* **M. Luo**\*, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) (\* Equal contributions.) 
 
 * **M. Luo**, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (**ASAP**), 2022. [\[pdf\]](https://arxiv.org/pdf/2205.02754.pdf)
 
