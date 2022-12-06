@@ -48,7 +48,7 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 * J. Liu, J. C. Davies, A. Ferraiuolo, A. Ivanov, **M. Luo**, et al., “Secure Autonomous Cyber-Physical Systems
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
-(**CPS-SPC**), 2018, pages 48-59 (Best Paper Award). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
+(**CPS-SPC**), collocated with ACM Conference on Computer and Communications Security (**CCS**), 2018, pages 48-59 (Best Paper Award). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
 
 * X. Jiao, **M. Luo**, J. H. Lin, R. K. Gupta, "An Assessment of Vulnerability of Hardware Neural Networks to Dynamic Voltage and Temperatrue Variations", in Internaional Conference on Computer-Aided Design (**ICCAD**), 940-950.
 
