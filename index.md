@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. candidate in the School of Electrical and Computer Engin
 For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
 For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
 
-<span style="color:red">AutoCAT is accepted to HPCA2023!</span>
+<span style="color:red">Invited to serve on TPC of CCS2023!</span>
 
 
 ### Education
@@ -61,10 +61,8 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 ### Services
 
 * Technical Program Committee: 
+        * ACM Conference on Computer and Communications Security (**CCS**), 2023.
 	* ISOC Symposium on Vehicle Security and Privacy (VehicleSec), co-located with Symposium on Networked and Distributed System Security (NDSS), 2023. 
-	* USENIX Security Symposium, Artifact Evaluation Committee, 2023.
-	* USENIX Symposium on Operating Systems Design and Implementation (OSDI), Artifact Evalutaion Committee, 2022. 
-	* USENIX Annual Technical Conference (ATC), Artifact Evaluation Committee, 2022.
 
 * Reviewer:
 	* IEEE Transcations on Computer-Aided Design of Integrated Circuits and Systems (T-CAD), 2022, 2017.
@@ -73,6 +71,11 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 * Subreviewer:
 	* ACM/IEEE International Symposium on Computer Architecture (ISCA), 2020.
 	* ACM/IEEE Design Automation Conference (DAC), 2016, 2017.
+
+* Artifact Evaluation Committee:
+	* USENIX Security Symposium, Artifact Evaluation Committee, 2023.
+	* USENIX Symposium on Operating Systems Design and Implementation (OSDI), Artifact Evalutaion Committee, 2022. 
+	* USENIX Annual Technical Conference (ATC), Artifact Evaluation Committee, 2022.
 
 ### Teaching 
 
