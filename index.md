@@ -9,9 +9,8 @@ layout: page
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/), [Twitter](https://twitter.com/lmlaaron)
 # &nbsp;
-I am a fifth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by Prof. Edward Suh. I am interested in architecture and cyber-physical systems security using machine learning and formal methods.
-For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
-For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
+I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by Prof. Edward Suh. I am interested in architecture and cyber-physical systems security using machine learning methods.
+I explored the usage of reinforcement learning for automated HW [side channel discovery](https://arxiv.org/pdf/2208.08025.pdf), and [side channel defense](https://openreview.net/pdf?id=CDlHZ78-Xzi). I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf).
 
 <span style="color:red">MACTA is accepted to ICLR 2023!</span>
 
@@ -62,8 +61,8 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 
 ### Services
 
-* Technical Program Committee: 
-        * ACM Conference on Computer and Communications Security (CCS), 2023.
+* Technical Program Committee:
+	* ACM Conference on Computer and Communications Security (CCS), 2023.
 	* ISOC Symposium on Vehicle Security and Privacy (VehicleSec), co-located with Symposium on Networked and Distributed System Security (NDSS), 2023. 
 
 * Reviewer:
