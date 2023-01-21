@@ -47,6 +47,9 @@ I explored the usage of reinforcement learning for automated HW [side channel di
 
 * J. H. Lin, X. Jiao, **M. Luo**, R. K. Gupta "Vulnrability of Hardware Neural Network to Dynamic Operation Point Variations", in **IEEE Design and Test** 37(5), pp. 75-84.
 
+* Z. Fang, **M. Luo**, et al., "Mitigating multi-tenant interference in continuous mobile 
+offloading", International Conference on Cloud Computing 2018, 20-36.[\[pdf\]](/pub/cloud.pdf) 
+
 * J. Liu, J. C. Davies, A. Ferraiuolo, A. Ivanov, **M. Luo**, et al., “Secure Autonomous Cyber-Physical Systems
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
 (**CPS-SPC**), collocated with ACM Conference on Computer and Communications Security (**CCS**), 2018, pages 48-59 (**Best Paper Award**). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
