@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. candidate in the School of Electrical and Computer Engin
 For machine learning for security, I explored the usage of ML for automated HW vulnerability discovery. I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf) 
 For formal method, I worked on a project that leveraged [information flow control](pub/ifc-cpsspc2018.pdf) to prevent untrusted sensor inputs from taking over the control of the vehicles. 
 
-<span style="color:red">Invited to serve on TPC of CCS2023!</span>
+<span style="color:red">MACTA is accepted to ICLR 2023!</span>
 
 
 ### Education
@@ -34,6 +34,8 @@ For formal method, I worked on a project that leveraged [information flow contro
 
 
 ### Selected Publications
+
+* J. Cui, X. Yang\*, G. Lee\*, **M. Luo**\*, et. al.,, "MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection", accepted to International Conference on Learning Representation (**ICLR**), 2023. [\[pdf-preprint\]](https://openreview.net/pdf?id=CDlHZ78-Xzi) (\* Equal contributions.)
 
 * **M. Luo**\*, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) (\* Equal contributions.) 
 
@@ -61,7 +63,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 ### Services
 
 * Technical Program Committee: 
-        * ACM Conference on Computer and Communications Security (**CCS**), 2023.
+        * ACM Conference on Computer and Communications Security (CCS), 2023.
 	* ISOC Symposium on Vehicle Security and Privacy (VehicleSec), co-located with Symposium on Networked and Distributed System Security (NDSS), 2023. 
 
 * Reviewer:
