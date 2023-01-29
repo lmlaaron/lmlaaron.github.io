@@ -43,7 +43,7 @@ I explored the usage of reinforcement learning for automated HW [side channel di
 * **M. Luo**, G. E. Suh, "Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (**AutoSec**), 2022, collocated with Networked and Distributed System Symposium (**NDSS**). [\[pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)
 
 * **M. Luo**, A. C. Myers, G. E. Suh, “Stealthy Tracking of Autonomous Vehicles with Cache Side Channels”, in
-29th **USENIX Security** Symposium, 2020, pp.859-876 [\[pdf\]](/pub/sec20-luo.pdf) [\[slides\]](https://www.usenix.org/system/files/sec20_slides_luo.pdf)[\[talk\]](https://youtu.be/prOLanX713s) (Shortlisted for **Top Picks in Hardware and Embedded Security** 2022.)
+29th **USENIX Security** Symposium, 2020, pp.859-876 [\[pdf\]](/pub/sec20-luo.pdf) [\[slides\]](https://www.usenix.org/system/files/sec20_slides_luo.pdf)[\[talk\]](https://youtu.be/prOLanX713s) (Shortlisted for [**Top Picks in Hardware and Embedded Security**](https://www.ieee-hsttc.org/tp-candidate-2022/) 2022.)
 
 * J. H. Lin, X. Jiao, **M. Luo**, R. K. Gupta "Vulnrability of Hardware Neural Network to Dynamic Operation Point Variations", in **IEEE Design and Test** 37(5), pp. 75-84.
 
