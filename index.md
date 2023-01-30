@@ -36,11 +36,11 @@ I explored the usage of reinforcement learning for automated HW [side channel di
 
 * J. Cui, X. Yang\*, G. Lee\*, **M. Luo**\*, et. al.,, "MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection", accepted to International Conference on Learning Representation (**ICLR**), 2023. [\[pdf-preprint\]](https://openreview.net/pdf?id=CDlHZ78-Xzi) (\* Equal contributions.)
 
-* **M. Luo**\*, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf) (\* Equal contributions.) 
+* **M. Luo**\*, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf)[\[code\]](https://github.com/facebookresearch/AutoCAT)(\* Equal contributions.) 
 
 * **M. Luo**, G. E. Suh, "Accelerating Path Planning for Autonomous Driving with Hardware-assisted  Memorization", in International conference on Application-specific Systems, Architectures and Processors (**ASAP**), 2022. [\[pdf\]](https://arxiv.org/pdf/2205.02754.pdf)
 
-* **M. Luo**, G. E. Suh, "Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (**AutoSec**), 2022, collocated with Networked and Distributed System Symposium (**NDSS**). [\[pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)
+* **M. Luo**, G. E. Suh, "Interrupt Attack on TEE for Robotic Vehicles", in Automobile and Autonomous Vehicle Security Workshop (**AutoSec**), 2022, collocated with Networked and Distributed System Symposium (**NDSS**). [\[pdf\]](/pub/AutoSec_2022_paper_1-19.pdf)[\[talk\]](https://www.youtube.com/watch?v=pzhKeZ2kbA0)
 
 * **M. Luo**, A. C. Myers, G. E. Suh, “Stealthy Tracking of Autonomous Vehicles with Cache Side Channels”, in
 29th **USENIX Security** Symposium, 2020, pp.859-876 [\[pdf\]](/pub/sec20-luo.pdf) [\[slides\]](https://www.usenix.org/system/files/sec20_slides_luo.pdf)[\[talk\]](https://youtu.be/prOLanX713s) (Shortlisted for [**Top Picks in Hardware and Embedded Security**](https://www.ieee-hsttc.org/tp-candidate-2022/) 2022.)
