@@ -66,6 +66,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 
 * Technical Program Committee:
 	* ACM Conference on Computer and Communications Security (**CCS**), 2023.
+	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), 2023.
 	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), 2023. 
 
 * Reviewer:
