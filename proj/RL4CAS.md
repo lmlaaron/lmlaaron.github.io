@@ -1,10 +1,4 @@
----
-layout: null 
-title:
-permalink: /rl4cas/
----
-
-## About
+# About
 
 WebJeda is a web designing company
 .
