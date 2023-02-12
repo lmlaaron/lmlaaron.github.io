@@ -96,8 +96,6 @@ I have been serving as a teaching assistant for multiple undergradudate and grad
 
 ### Mentoring
 
-* Yueying Li, Ph.D. student "AutoCAT: Reinforcement Learning forr Automated Exploration of Cache Timing-Channel Attacks", Worhshop for Women in Hardware and System Security (WISE), 2022. 
-
 * Yifang Yang, Yan Zhang, Master of Engineering Design Project "An Architecture for Secure GPIO Access in Robot System on TrustZone Enabled ARM Processors", 2019.
 
 ### Industry
