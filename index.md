@@ -12,7 +12,7 @@ layout: page
 I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/). I am interested in architecture and cyber-physical systems security using machine learning methods.
 I explored the usage of reinforcement learning for automated HW [side channel discovery](https://arxiv.org/pdf/2208.08025.pdf), and [side channel defense](https://openreview.net/pdf?id=CDlHZ78-Xzi). I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf).
 
-<span style="color:red">MACTA is accepted to ICLR 2023!</span>
+<span style="color:red">Invited to serve on the technical program committee of [RAID 2023](https://raid2023.org/welcome.html)! Please consider submitting your latest work!</span>
 
 
 ### Education
