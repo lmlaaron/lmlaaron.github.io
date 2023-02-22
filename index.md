@@ -9,11 +9,7 @@ layout: page
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/), [Twitter](https://twitter.com/lmlaaron)
 # &nbsp;
-I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/). I am interested in architecture and cyber-physical systems security using machine learning methods.
-I explored the usage of reinforcement learning for automated HW [side channel discovery](https://arxiv.org/pdf/2208.08025.pdf), and [side channel defense](https://openreview.net/pdf?id=CDlHZ78-Xzi). I proposed to use machine learning to infer the location of autonomous vehicles via  [cache side channel](pub/sec20-luo.pdf).
-
-<span style="color:red">Invited to serve on the technical program committee of [RAID 2023](https://raid2023.org/welcome.html)! Please consider submitting your latest work!</span>
-
+I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/). I am interested in architecture and cyber-physical systems security, and machine learning.
 
 ### Education
 
@@ -59,8 +55,6 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 * Z. Fang, **M. Luo**, F. Anwar, H. Zhuang, R. Gupta, "Go-realtime: a lightweight framework for multiprocessor real-time system in user space", in **ACM SIGBED Review**, Vol 14, Issue 4, pp. 46-52. [\[pdf\]](/pub/gorealtime.pdf)
 
 * A. B. Kahng, **M. Luo**, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction (**SLIP**), pp.1-8. [\[pdf\]](/pub/gt1gt2si.pdf) 
-
-* **M. Luo**, R. Wang, S. Guo, J. Wang, J. Zou, R. Huang, "Impacts of Random Telegraph Noise (RTN) on Digital Circuits", in IEEE Transactions on Electron Devices (**T-ED**), Vol 62, Issue, 6, pp. 1725-1732. [\[pdf\]](/pub/ted.pdf) 
 
 ### Services
 
