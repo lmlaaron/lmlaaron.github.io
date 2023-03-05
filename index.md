@@ -30,7 +30,7 @@ I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engin
 
 ### Selected Publications
 
-* J. Cui, X. Yang\*, G. Lee\*, **M. Luo**\*, et. al.,, "MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection", accepted to International Conference on Learning Representation (**ICLR**), 2023. [\[pdf-preprint\]](https://openreview.net/pdf?id=CDlHZ78-Xzi) (\* Equal contributions.)
+* J. Cui, X. Yang\*, **M. Luo**\*, G. Lee\*, et. al.,, "MACTA: A Multi-agent Reinforcement Learning Approach for Cache Timing Attacks and Detection", accepted to International Conference on Learning Representation (**ICLR**), 2023. [\[pdf-preprint\]](https://openreview.net/pdf?id=CDlHZ78-Xzi) (\* Equal contributions.)
 
 * **M. Luo**\*, W. Xiong\*, et. al., "AutoCAT: Reinforcement Learning for Automated Exploration of Cache Timing-Channel Attacks", accepted to IEEE International Symposium on High Performance Computer Architecture (**HPCA**), 2023. [\[pdf-preprint\]](https://arxiv.org/pdf/2208.08025.pdf)[\[code\]](https://github.com/facebookresearch/AutoCAT)(\* Equal contributions.) 
 
