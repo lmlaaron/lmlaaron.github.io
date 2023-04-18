@@ -11,6 +11,8 @@ layout: page
 # &nbsp;
 I am a sixth-year Ph.D. candidate in the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/). I am interested in architecture and cyber-physical systems security, and machine learning.
 
+<span style="color:red">I am co-organizing [RL4CAS](https://rl4cas.github.io) Tutorial collocated with ISCA 2023. See you in Orlando, FL!</span>
+
 ### Education
 
 * Doctor of Philosophy, Computer Engineering, Cornell University, 2017-now.
