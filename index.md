@@ -60,16 +60,19 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 
 ### Services
 
+* Organizer:
+	* Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial, co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
+
 * Technical Program Committee:
 	* ACM Conference on Computer and Communications Security (**CCS**), 2023.
 	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), 2023.
 	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), 2023. 
+	* Workshop on Hardware and Architectural Support for Security and Privacy (**HASP**), co-located with International Symposium on Microarchitecture (**MICRO**), 2023.
 
-* Reviewer:
+* Reviewer/External Reviewer:
+	* Conference on Cryptographic Hardwareand Embedded Systems (**CHES**), 2023.
 	* IEEE Transcations on Computer-Aided Design of Integrated Circuits and Systems (**T-CAD**), 2022, 2017.
 	* Integration, the VLSI Journal, 2016.
-
-* Subreviewer:
 	* ACM/IEEE International Symposium on Computer Architecture (**ISCA**), 2020.
 	* ACM/IEEE Design Automation Conference (**DAC**), 2016, 2017.
 
