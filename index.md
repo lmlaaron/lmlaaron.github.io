@@ -71,10 +71,10 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 
 * Reviewer/External Reviewer:
 	* Conference on Cryptographic Hardwareand Embedded Systems (**CHES**), 2023.
-	* IEEE Transcations on Computer-Aided Design of Integrated Circuits and Systems (**T-CAD**), 2022, 2017.
-	* Integration, the VLSI Journal, 2016.
 	* ACM/IEEE International Symposium on Computer Architecture (**ISCA**), 2020.
 	* ACM/IEEE Design Automation Conference (**DAC**), 2016, 2017.
+	* IEEE Transcations on Computer-Aided Design of Integrated Circuits and Systems (**T-CAD**), 2022, 2017.
+	* Integration, the VLSI Journal, 2016.
 
 * Artifact Evaluation Committee:
 	* USENIX Security Symposium, Artifact Evaluation Committee, 2023.
