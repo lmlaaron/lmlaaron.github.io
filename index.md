@@ -4,14 +4,12 @@ layout: page
 [![photo](/fig/boston_small2.jpg){: style="float: right"}](/fig/boston.jpg) 
 #  &nbsp; &nbsp; &nbsp; &nbsp; **Mulong Luo** 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Postdoctoral Researcher          
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; the University of Texas at Austin   
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The University of Texas at Austin   
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *mulong AT utexas DOT edu*
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/), [Twitter](https://twitter.com/lmlaaron)
 # &nbsp;
-I am a postdoctoral researcher at the University of Texas at Austin, working with Prof. Mohit Tiwari. I recently graduated from the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/). I am interested in architecture and cyber-physical systems security, and machine learning.
-
-<span style="color:red">I am co-organizing [RL4CAS](https://rl4cas.github.io) Tutorial collocated with ISCA 2023. See you in Orlando, FL!</span>
+I am a postdoctoral researcher at the University of Texas at Austin, working with [Prof. Mohit Tiwari](https://users.ece.utexas.edu/~tiwari/index.html). I am interested in computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/).
 
 ### Education
 
