@@ -59,19 +59,19 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 ### Services
 
 * Organizer:
-	* Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial, co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
+	* [Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial](https://rl4cas.github.io), co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
 
 * Technical Program Committee:
-	* International Symposium on High-Performance Computer Architecture (**HPCA**), 2024.
-	* USENIX Security Symposium, 2024.
-	* ACM Conference on Computer and Communications Security (**CCS**), 2023.
-	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), 2023.
-	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), 2023. 
-	* Workshop on Hardware and Architectural Support for Security and Privacy (**HASP**), co-located with International Symposium on Microarchitecture (**MICRO**), 2023.
-	* Workshop on Attacks and Solutions in Hardware Security (**ASHES**), co-located with **ACM CCS**, 2023.
+	* International Symposium on High-Performance Computer Architecture (**HPCA**), [2024](https://hpca-conf.org/2024/).
+	* USENIX Security Symposium, [2024](https://www.usenix.org/conference/usenixsecurity24).
+	* ACM Conference on Computer and Communications Security (**CCS**), [2023](https://www.sigsac.org/ccs/CCS2023/).
+	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), [2023](https://raid2023.org/welcome.html).
+	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2023](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/). 
+	* Workshop on Hardware and Architectural Support for Security and Privacy (**HASP**), co-located with International Symposium on Microarchitecture (**MICRO**), [2023](https://www.haspworkshop.org/2023/index.html).
+	* Workshop on Attacks and Solutions in Hardware Security (**ASHES**), co-located with **ACM CCS**, [2023](https://www.haspworkshop.org/2023/index.html).
 
 * Reviewer/External Reviewer:
-	* Conference on Cryptographic Hardwareand Embedded Systems (**CHES**), 2023.
+	* Conference on Cryptographic Hardwareand Embedded Systems (**CHES**), [2023](https://ches.iacr.org/2023/).
 	* ACM/IEEE International Symposium on Computer Architecture (**ISCA**), 2020.
 	* ACM/IEEE Design Automation Conference (**DAC**), 2016, 2017.
 	* IEEE Transcations on Computer-Aided Design of Integrated Circuits and Systems (**T-CAD**), 2022, 2017.
