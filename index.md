@@ -62,7 +62,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 	* [Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial](https://rl4cas.github.io), co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
 
 * Technical Program Committee:
-	* International Symposium on High-Performance Computer Architecture (**HPCA**), [2024](https://hpca-conf.org/2024/).
+	* International Symposium on High-Performance Computer Architecture (**HPCA**), [2024](https://hpca-conf.org/2024/).(lightPC)
 	* USENIX Security Symposium, [2024](https://www.usenix.org/conference/usenixsecurity24).
 	* ACM Conference on Computer and Communications Security (**CCS**), [2023](https://www.sigsac.org/ccs/CCS2023/).
 	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), [2023](https://raid2023.org/welcome.html).
