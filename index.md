@@ -9,7 +9,7 @@ layout: page
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/), [Twitter](https://twitter.com/lmlaaron)
 # &nbsp;
-I am a postdoctoral researcher at the University of Texas at Austin, working with [Prof. Mohit Tiwari](https://users.ece.utexas.edu/~tiwari/index.html). I am interested in computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University, advised by [Prof. Edward Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/).
+I am a postdoctoral researcher at the University of Texas at Austin. I work on computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University.
 
 ### Education
 
@@ -26,7 +26,6 @@ I am a postdoctoral researcher at the University of Texas at Austin, working wit
 * Security of computer architecture and cyber-physical systems
 
 * Trusted execution environments, side channels
-
 
 ### Selected Publications
 
