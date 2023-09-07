@@ -16,7 +16,7 @@
 title: Mulong Luo
 email: mulong@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
-	Postdoctoral Researcher, UT Austin
+  Postdoctoral Researcher, UT Austin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mulongluo.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
