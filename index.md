@@ -3,7 +3,7 @@ layout: page
 ---
 [![photo](/fig/boston_small2.jpg){: style="float: right"}](/fig/boston.jpg) 
 #  &nbsp; &nbsp; &nbsp; &nbsp; **Mulong Luo** 
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Postdoctoral Researcher          
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Postdoctoral Research Scientist          
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The University of Texas at Austin   
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *mulong AT utexas DOT edu*
 
