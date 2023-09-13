@@ -9,9 +9,9 @@ layout: page
 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Vita](/pub/vita.pdf), [Google Scholar](https://scholar.google.com/citations?user=KSiiEooAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/mulong-luo-2b15a084/), [Twitter](https://twitter.com/lmlaaron)
 # &nbsp;
-I am a postdoctoral researcher at the University of Texas at Austin. I work on computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University.
+I am a postdoctoral fellow at the University of Texas at Austin. I work on computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University.
 
-<span style="color:red">Research internship available! If you are an undergrad looking for research experience and intersted in computer security research, please drop me an email at mulong@utexas.edu</span>
+<span style="color:red">Research internship available! If you are an undergrad looking for research experience and interested in research in the intersection of computer security and applied machine learning, please drop me an email at mulong@utexas.edu</span>
 
 ### Education
 
