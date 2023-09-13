@@ -11,6 +11,8 @@ layout: page
 # &nbsp;
 I am a postdoctoral researcher at the University of Texas at Austin. I work on computer architecture and cyber-physical systems security, and machine learning. I recently graduated from the School of Electrical and Computer Engineering at Cornell University.
 
+<span style="color:red">Research internship available! If you are an undergrad looking for research experience and intersted in computer security research, please drop me an email at mulong@utexas.edu</span>
+
 ### Education
 
 * Doctor of Philosophy, Computer Engineering, Cornell University, 2017-2023.
