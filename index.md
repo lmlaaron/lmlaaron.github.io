@@ -60,8 +60,9 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 ### Services
 
 * Organization:
+	* LDMA: Learning-based Detection of Microarchitectural Attacks Tutorial, co-located with Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2024. 
 	* Chair, [Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial](https://rl4cas.github.io), co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
-	* Publication Committee,  ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2024](/https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/).
+	* Publication Chair,  ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2024](/https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/).
 
 * Technical Program Committee:
 	* USENIX Security Symposium, [2024](https://www.usenix.org/conference/usenixsecurity24).
