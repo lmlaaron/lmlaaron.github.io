@@ -42,20 +42,11 @@ I am a postdoctoral fellow / research scientist at the University of Texas at Au
 * **M. Luo**, A. C. Myers, G. E. Suh, “Stealthy Tracking of Autonomous Vehicles with Cache Side Channels”, in
 29th **USENIX Security** Symposium, 2020, pp.859-876 [\[pdf\]](/pub/sec20-luo.pdf) [\[slides\]](https://www.usenix.org/system/files/sec20_slides_luo.pdf)[\[talk\]](https://youtu.be/prOLanX713s) (Shortlisted for [**Top Picks in Hardware and Embedded Security**](https://www.ieee-hsttc.org/tp-candidate-2022/) 2022.)
 
-* J. H. Lin, X. Jiao, **M. Luo**, R. K. Gupta "Vulnrability of Hardware Neural Network to Dynamic Operation Point Variations", in **IEEE Design and Test** 37(5), pp. 75-84.
-
-* Z. Fang, **M. Luo**, et al., "Mitigating multi-tenant interference in continuous mobile 
-offloading", International Conference on Cloud Computing 2018, 20-36.[\[pdf\]](/pub/cloud.pdf) 
-
 * J. Liu, J. C. Davies, A. Ferraiuolo, A. Ivanov, **M. Luo**, et al., “Secure Autonomous Cyber-Physical Systems
 Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Systems Security and PrivaCy
 (**CPS-SPC**), collocated with ACM Conference on Computer and Communications Security (**CCS**), 2018, pages 48-59 (**Best Paper Award**). [\[pdf\]](/pub/ifc-cpsspc2018.pdf)
 
 * X. Jiao, **M. Luo**, J. H. Lin, R. K. Gupta, "An Assessment of Vulnerability of Hardware Neural Networks to Dynamic Voltage and Temperatrue Variations", in Internaional Conference on Computer-Aided Design (**ICCAD**), 940-950.
-
-* Z. Fang, **M. Luo**, F. Anwar, H. Zhuang, R. Gupta, "Go-realtime: a lightweight framework for multiprocessor real-time system in user space", in **ACM SIGBED Review**, Vol 14, Issue 4, pp. 46-52. [\[pdf\]](/pub/gorealtime.pdf)
-
-* A. B. Kahng, **M. Luo**, S. Nath, "SI for Free: Machine Learning of Interconnect Coupling Delay and Transition Effects", in ACM/IEEE International Workshop on System Level Interconnect Prediction (**SLIP**), pp.1-8. [\[pdf\]](/pub/gt1gt2si.pdf) 
 
 ### Services
 
