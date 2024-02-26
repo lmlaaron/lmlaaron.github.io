@@ -53,7 +53,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 * Organization:
 	* LDMA: Learning-based Detection of Microarchitectural Attacks Tutorial, co-located with Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2024. 
 	* Chair, [Reinforcement Learning for Computer Architecture and Systems (**RL4CAS**) Tutorial](https://rl4cas.github.io), co-located with International Symposium on Computer Architecture (**ISCA**), 2023. 
-	* Publication Chair,  ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2024](/https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/).
+	* Publication Chair,  ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2024](https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/).
 
 * Technical Program Committee:
 	* USENIX Security Symposium, [2024](https://www.usenix.org/conference/usenixsecurity24).
@@ -61,7 +61,7 @@ Through Verifiable Information Flow Control”, in Workshop on Cyber-Physical Sy
 	* International Symposium on High-Performance Computer Architecture (**HPCA**), [2024](https://hpca-conf.org/2024/).(lightPC)
 	* ACM Conference on Computer and Communications Security (**CCS**), [2023](https://www.sigsac.org/ccs/CCS2023/).
 	* International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), [2023, noteworthy reviewers](https://raid2023.org/welcome.html).
-	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2023](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/), [2024](https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/). 
+	* ISOC Symposium on Vehicle Security and Privacy (**VehicleSec**), co-located with Symposium on Networked and Distributed System Security (**NDSS**), [2023](https://www.ndss-symposium.org/ndss-program/vehiclesec-2023/), [2024, outstanding reviewer](https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/). 
 	* Workshop on Hardware and Architectural Support for Security and Privacy (**HASP**), co-located with International Symposium on Microarchitecture (**MICRO**), [2023](https://www.haspworkshop.org/2023/index.html).
 	* Workshop on Attacks and Solutions in Hardware Security (**ASHES**), co-located with **ACM CCS**, [2023](http://ashesworkshop.org).
 
